@@ -30,3 +30,8 @@
 
 # Debug files
 *.dSYM/
+#include<stdio>
+void main()
+{
+printf("hellow github");
+}
